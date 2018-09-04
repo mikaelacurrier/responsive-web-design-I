@@ -152,12 +152,11 @@ h1, h2, h3, h4, h5 {
 .second {
 	display: flex;
 	justify-content: space-between;
-	height: 130px;
 	align-items: flex-start;
 }
 .contact {
-	height: 150px;
 	align-content: flex-end;
+	padding-top: 50px;
 }
 
 .copyright {
@@ -304,11 +303,8 @@ h1, h2, h3, h4, h5 {
 	}
 
 	.contact {
-		padding:400px 0px 0px 10px;
+		padding-left:10px;
 
-	}
-	.copyright {
-		padding-top: 200px;
 	}
 
 }
